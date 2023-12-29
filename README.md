@@ -1,7 +1,7 @@
 # InteractiveTrail
 
 ## Overview
-I am a dedicated and compassionate student currently pursuing a Master's degree in Software Engineering at Cardiff University. With a strong background in information and communications engineering, I am excited about opportunities to apply my skills and make a positive impact. Here's a proposal for an interactive trail application designed for towns and local businesses.
+I am a dedicated student currently pursuing a Master's degree in Software Engineering at Cardiff University. With a strong background in information and communications engineering. Here's a proposal for an interactive trail application designed for towns and local businesses.
 
 ## Features
 
@@ -22,10 +22,10 @@ I am a dedicated and compassionate student currently pursuing a Master's degree 
 - Foster healthy competition and encourage users to explore more trails.
 
 ## DevelopmentTeam
-This project will be executed by a proficient team of 5 individuals, each contributing their expertise in software engineering. The team is committed to delivering a high-quality interactive trail application for the VZTA company.
+This project was developed by a team of 5 individuals, each contributing their expertise in software engineering. We committed to delivering a good application for the Trails Company.
 
 ## AboutVZTA
-[VZTA](https://www.vzta.com/) is the visionary company behind this project, and we are enthusiastic about collaborating to create an innovative and engaging solution for towns and local businesses.
+[VZTA](https://www.vzta.com/) is the visionary company behind this project, and they are enthusiastic about collaborating to create an innovative and engaging solution for towns and local businesses.
 
-Let's embark on this trail of creativity and technology together!
+
  

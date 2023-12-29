@@ -1,4 +1,4 @@
-# InteractiveTrails #TrailApplication #LocalBusinesses
+# InteractiveTrail
 
 ## Overview
 I am a dedicated and compassionate student currently pursuing a Master's degree in Software Engineering at Cardiff University. With a strong background in information and communications engineering, I am excited about opportunities to apply my skills and make a positive impact. Here's a proposal for an interactive trail application designed for towns and local businesses.
